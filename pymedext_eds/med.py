@@ -4,7 +4,7 @@ from torch.utils.data import DataLoader, Dataset
 #from .extract.preprocess import TextPreprocessing
 #from .extract.postprocess import ConllPostProcess
 
-from ray import serve
+#from ray import serve
 import requests
 from typing import List
 
