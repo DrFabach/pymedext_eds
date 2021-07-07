@@ -16,8 +16,8 @@ import json
 import datetime
 
 import ray
-from ray.serve.utils import _get_logger
-logger = _get_logger()
+#from ray.serve.utils import _get_logger
+#logger = _get_logger()
 from tqdm import tqdm
 
 import re
